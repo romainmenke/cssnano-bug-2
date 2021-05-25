@@ -1,0 +1,24 @@
+{
+  "name": "cssnano-bug-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.css",
+  "scripts": {
+    "build": "node ./build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romainmenke/cssnano-bug-1.git"
+  },
+  "author": "Romain Menke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/romainmenke/cssnano-bug-1/issues"
+  },
+  "homepage": "https://github.com/romainmenke/cssnano-bug-1#readme",
+  "devDependencies": {
+    "cssnano": "^5.0.3",
+    "cssnano-preset-default": "^5.1.0",
+    "postcss": "^8.2.15"
+  }
+}

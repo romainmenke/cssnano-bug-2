@@ -1,0 +1,15 @@
+.foo {
+	columns: 2 auto;
+}
+
+.foos {
+	columns: auto auto;
+}
+
+.bar {
+	columns: 2 20px;
+}
+
+.baz {
+	columns: 20px 2;
+}
